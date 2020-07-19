@@ -18,8 +18,13 @@ $ npm install --save-dev @flitz/tsconfig
 {
   "extends": "@flitz/tsconfig",
   "compilerOptions": {
-    // your custom options here      
-  }
+    "outDir": "lib",
+    "rootDir": "src"
+  },
+  "exclude": [
+    "node_modules",
+    "./src/sandbox"
+  ]
 }
 ```
 
