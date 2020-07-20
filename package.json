@@ -1,6 +1,6 @@
 {
   "name": "@flitz/tsconfig",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Shared TypeScript config files for flitz projects.",
   "license": "MIT",
   "repository": {
