@@ -6,7 +6,7 @@
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "lib": [
-      "es2017"
+      "es2019"
     ],
     "module": "commonjs",
     "moduleResolution": "node",
@@ -19,6 +19,6 @@
     "sourceMap": true,
     "strict": true,
     "stripInternal": true,
-    "target": "es2017"
+    "target": "es2019"
   }
 }
